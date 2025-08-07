@@ -1,0 +1,8 @@
+This is a placeholder for the résumé PDF file.
+
+In a real implementation, you would:
+1. Create an actual PDF résumé using tools like Google Docs, Microsoft Word, or LaTeX
+2. Save it as "resume.pdf" in the public directory
+3. The download link on the résumé page will automatically serve this file
+
+For now, this text file serves as a placeholder to demonstrate the file structure.
