@@ -1,8 +1,6 @@
 # Jack Stewart - Personal Portfolio
 
-A modern, responsive personal portfolio website built with Next.js 14, TypeScript, and Tailwind CSS. Features a beautiful "Midnight Neon" design system with dark/light mode support.
-
-## 🚀 Features
+## Features
 
 - **Modern Design**: Clean, professional design with the "Midnight Neon" color palette
 - **Dark/Light Mode**: Toggle between dark and light themes with system preference detection
@@ -11,7 +9,7 @@ A modern, responsive personal portfolio website built with Next.js 14, TypeScrip
 - **SEO Optimized**: Proper meta tags and structured data
 - **Accessible**: WCAG compliant with proper ARIA labels and keyboard navigation
 
-## 📱 Pages
+## Pages
 
 - **Home**: Hero section, about preview, featured projects, and call-to-action
 - **About**: Detailed bio, skills, education, experience, and goals
@@ -19,7 +17,7 @@ A modern, responsive personal portfolio website built with Next.js 14, TypeScrip
 - **Résumé**: Downloadable PDF résumé with preview
 - **Contact**: Contact form with social media links
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Framework**: Next.js 14 with App Router
 - **Language**: TypeScript
@@ -28,7 +26,7 @@ A modern, responsive personal portfolio website built with Next.js 14, TypeScrip
 - **Theme**: next-themes for dark/light mode
 - **Deployment**: Vercel (recommended)
 
-## 🎨 Design System
+## Design System
 
 ### Colors (Midnight Neon)
 - **Primary**: #8B5CF6 (Purple)
@@ -44,18 +42,13 @@ A modern, responsive personal portfolio website built with Next.js 14, TypeScrip
 - **Headings**: Space Grotesk
 - **Body**: Inter
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js 18+ 
-- npm or yarn
+## Getting Started
 
 ### Installation
 
 1. **Clone the repository**
    ```bash
    git clone <your-repo-url>
-   cd portfolio
    ```
 
 2. **Install dependencies**
@@ -93,7 +86,7 @@ Update the following files with your information:
 - **Résumé Page**: `src/app/resume/page.tsx`
 - **Contact Page**: `src/app/contact/page.tsx`
 
-## 🚀 Deployment
+## Deployment
 
 ### Vercel (Recommended)
 1. Push your code to GitHub
@@ -144,21 +137,3 @@ portfolio/
 - `npm run start` - Start production server
 - `npm run lint` - Run ESLint
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📞 Contact
-
-For questions or support, please reach out:
-- Email: jack@example.com
-- GitHub: [@jackstewart](https://github.com/jackstewart)
-- LinkedIn: [Jack Stewart](https://linkedin.com/in/jackstewart)
-
----
-
-Built with ❤️ using Next.js, TypeScript, and Tailwind CSS
