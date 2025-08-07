@@ -64,28 +64,6 @@
 4. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
 
-## 📝 Customization
-
-### Personal Information
-Update the following files with your information:
-
-1. **Contact Details**: Update `src/app/contact/page.tsx`
-2. **About Section**: Modify `src/app/about/page.tsx`
-3. **Projects**: Edit `src/data/projects.ts`
-4. **Résumé**: Replace `public/resume.pdf` with your actual résumé
-
-### Styling
-- Colors: Modify `tailwind.config.ts`
-- Global styles: Edit `src/app/globals.css`
-- Component styles: Update individual component files
-
-### Content
-- **Home Page**: `src/app/page.tsx`
-- **About Page**: `src/app/about/page.tsx`
-- **Projects Data**: `src/data/projects.ts`
-- **Résumé Page**: `src/app/resume/page.tsx`
-- **Contact Page**: `src/app/contact/page.tsx`
-
 ## Deployment
 
 ### Vercel (Recommended)
@@ -130,7 +108,7 @@ portfolio/
 └── README.md
 ```
 
-## 🔧 Available Scripts
+## Available Scripts
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
