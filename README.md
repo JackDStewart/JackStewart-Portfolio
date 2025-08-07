@@ -100,7 +100,7 @@ The app can be deployed to any platform that supports Next.js:
 - DigitalOcean App Platform
 - AWS Amplify
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 portfolio/
